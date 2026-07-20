@@ -2,7 +2,7 @@
   <img src="velesdb_icon_pack/favicon/android-chrome-512x512.png" alt="VelesDB Logo" width="200"/>
 </p>
 
-Nice
+Nice Niceeee
 
 <h1 align="center">
   <img src="velesdb_icon_pack/favicon/favicon-32x32.png" alt="VelesDB" width="32" height="32" style="vertical-align: middle;"/>
